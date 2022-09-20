@@ -4,6 +4,7 @@ team n67
 - Sardor Sultonov
 - Javlonbek Nematov
 - Rustam Ro'zimatov
+- Muhammad Bahromiy
 
 # Intro Section 
 
