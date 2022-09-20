@@ -1,0 +1,15 @@
+nav{
+    display: flex;
+    justify-content: space-between;
+}
+
+.nav{
+    list-style-type: none;
+}
+.nav-items{
+    display: inline-block;
+}
+.nav-item__link{
+    text-decoration: none;
+    color: #000;
+}
