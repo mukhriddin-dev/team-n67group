@@ -18,3 +18,7 @@ team n67
 - Ibrohim Jabbaraliyev
 - Abdullox Mahmudov
 - Mirziyod Saidov
+
+#Footer
+- Nodir Shadiyev
+- Salamat Gayipbayev
