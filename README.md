@@ -23,3 +23,5 @@ team n67
 - Nodir Shadiyev
 - Salomat Gayipbayev
 - Ahmadxo'jayev Azizxon
+- jorayev ibrohim
+
