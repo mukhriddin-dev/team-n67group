@@ -1,9 +1,9 @@
 # team-n67group
 team n67
 # Navbar - section
--Sardor Sultonov
--Javlonbek Nematov
--Rustam Ro'zimatov
+- Sardor Sultonov
+- Javlonbek Nematov
+- Rustam Ro'zimatov
 
 # Intro Section 
 
