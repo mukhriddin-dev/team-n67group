@@ -22,3 +22,4 @@ team n67
 # Footer
 - Nodir Shadiyev
 - Salamat Gayipbayev
+- Ahmadxo'jayev Azizxon
