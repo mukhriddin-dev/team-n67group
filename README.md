@@ -19,6 +19,6 @@ team n67
 - Abdullox Mahmudov
 - Mirziyod Saidov
 
-#Footer
+# Footer
 - Nodir Shadiyev
 - Salamat Gayipbayev
